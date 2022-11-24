@@ -8,3 +8,6 @@ public class Uts {
         System.out.println("saya lahir di tahun : "+tahun_lahir);
     }
 }
+
+
+// #saya running ini di https://www.jdoodle.com/online-java-compiler/
